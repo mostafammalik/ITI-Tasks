@@ -1,0 +1,14 @@
+C:\Users\mohammed hamdy fandy\source\repos\FirstItiProject\FirstItiProject\bin\Debug\net8.0\FirstItiProject.exe
+C:\Users\mohammed hamdy fandy\source\repos\FirstItiProject\FirstItiProject\bin\Debug\net8.0\FirstItiProject.deps.json
+C:\Users\mohammed hamdy fandy\source\repos\FirstItiProject\FirstItiProject\bin\Debug\net8.0\FirstItiProject.runtimeconfig.json
+C:\Users\mohammed hamdy fandy\source\repos\FirstItiProject\FirstItiProject\bin\Debug\net8.0\FirstItiProject.dll
+C:\Users\mohammed hamdy fandy\source\repos\FirstItiProject\FirstItiProject\bin\Debug\net8.0\FirstItiProject.pdb
+C:\Users\mohammed hamdy fandy\source\repos\FirstItiProject\FirstItiProject\obj\Debug\net8.0\FirstItiProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohammed hamdy fandy\source\repos\FirstItiProject\FirstItiProject\obj\Debug\net8.0\FirstItiProject.AssemblyInfoInputs.cache
+C:\Users\mohammed hamdy fandy\source\repos\FirstItiProject\FirstItiProject\obj\Debug\net8.0\FirstItiProject.AssemblyInfo.cs
+C:\Users\mohammed hamdy fandy\source\repos\FirstItiProject\FirstItiProject\obj\Debug\net8.0\FirstItiProject.csproj.CoreCompileInputs.cache
+C:\Users\mohammed hamdy fandy\source\repos\FirstItiProject\FirstItiProject\obj\Debug\net8.0\FirstItiProject.dll
+C:\Users\mohammed hamdy fandy\source\repos\FirstItiProject\FirstItiProject\obj\Debug\net8.0\refint\FirstItiProject.dll
+C:\Users\mohammed hamdy fandy\source\repos\FirstItiProject\FirstItiProject\obj\Debug\net8.0\FirstItiProject.pdb
+C:\Users\mohammed hamdy fandy\source\repos\FirstItiProject\FirstItiProject\obj\Debug\net8.0\FirstItiProject.genruntimeconfig.cache
+C:\Users\mohammed hamdy fandy\source\repos\FirstItiProject\FirstItiProject\obj\Debug\net8.0\ref\FirstItiProject.dll
